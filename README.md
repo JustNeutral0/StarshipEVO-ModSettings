@@ -3,7 +3,7 @@
 A Starship EVO mod that gives every mod's settings and tools one window, so mods never fight over hotkeys.
 Open it with **F11** or the **Mod Settings** button in the game's Escape menu; Esc closes it.
 
-> Early test release. Built and tested against Starship EVO early-access **26w45a**, single-player.
+> Early test release. Built and tested against Starship EVO early-access **26w45a** (Unity 6 beta), single-player.
 
 ## What it does
 
@@ -18,6 +18,8 @@ Open it with **F11** or the **Mod Settings** button in the game's Escape menu; E
 
 Needs [EvoCore](https://github.com/JustNeutral0/StarshipEVO-EvoCore) (install it first) and
 [Starship Uplink](https://github.com/MadTheDog/Starship-Uplink).
+
+**First, the game build:** these mods are built for the **Unity 6 beta** of Starship EVO, not the default build. In Steam, right-click Starship EVO, open **Properties > Betas**, pick **unity6**, and let it update. The mods don't work on the default build (character creation breaks, for one).
 
 1. In Uplink, choose **Add from GitHub** and enter `JustNeutral0/StarshipEVO-ModSettings`.
 2. Pick the `justneutral.modsettings-<version>.zip` asset, then install it into your profile.
